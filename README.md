@@ -36,7 +36,8 @@
 
 The video explains the complete project workflow, including the formulas, data analysis, Pivot Tables, charts, and dashboard.
 
-🔗 **Video Link:** `Paste your video link here`
+🔗 **Video Link:** https://drive.google.com/file/d/1lR4ZCv3Y1kx_cunYEzt0y414KaXW2Hei/view?usp=drive_link
+
 
 ---
 
